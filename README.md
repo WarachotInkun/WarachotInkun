@@ -8,8 +8,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/WarachotInkun">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WarachotInkun&&theme=tokyonight" alt="" />
-  </a>
-</p>
