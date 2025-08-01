@@ -1,7 +1,7 @@
 ### Hello 🌎, I'm IQNAJA
 ---
 
-### 👨‍💻 About Me
+### About Me
 - **Full Name:** Warachot Inkun  
 - **Student at:** King Mongkut's Institute of Technology Ladkrabang (KMITL)  
 - **Major:** Computer Engineering  
