@@ -1,13 +1,13 @@
-### Hello 🌎, I'm IQNAJA
+### Hello, I'm Warachot Inkun 👋
+
+A **Computer Engineering** student at **King Mongkut's Institute of Technology Ladkrabang (KMITL)** with a passion for building and learning.
+
 ---
 
-### About Me
-- **Full Name:** Warachot Inkun  
-- **Student at:** King Mongkut's Institute of Technology Ladkrabang (KMITL)  
-- **Major:** Computer Engineering  
----
+### My Toolbox
 
-### Skills  
+Here are some of the technologies I work with:
+
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -20,12 +20,13 @@
 
 ---
 
+### GitHub Stats
+
 <div align="center">
   <a href="https://github.com/WarachotInkun">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=WarachotInkun&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WarachotInkun&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=WarachotInkun&show_icons=true&locale=en&theme=tokyonight" />
   </a>
-</div>
-<div align="center">
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="reimaginedreadme" />
+  <a href="https://github.com/WarachotInkun">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WarachotInkun&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  </a>
 </div>
