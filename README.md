@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm IQNAJA (Warachot Inkun)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Backend+Developer+%F0%9F%94%A7;GoLang+%7C+.NET+%7C+Python+%7C+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;GoLang+%7C+.NET+%7C+Python+%7C+C%2B%2B" alt="Typing SVG" />
 </p>
 
 ---
