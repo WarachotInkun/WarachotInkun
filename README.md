@@ -43,20 +43,23 @@
 
 ---
 
-### 🎮 Fun Zone
-
-<p align="center">
-  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="dino" />
-</p>
-
----
-
 ### 📫 Contact
 
 - GitHub: [@WarachotInkun](https://github.com/WarachotInkun)
-- Email: warachot.inkun@gmail.com *(if public)*
 
 ---
+
+### 🎮 Fun Zone
+
+<div align="center">
+
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="reimaginedreadme" />
+
+</div>
+
+---
+
+
 
 ⭐️ If you like what I do, feel free to star my repositories!
 
