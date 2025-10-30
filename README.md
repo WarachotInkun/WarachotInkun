@@ -48,6 +48,7 @@
 ### 📫 Contact
 
 - GitHub: [@WarachotInkun](https://github.com/WarachotInkun)
+- LinkedIN: [@WarachotInkun](www.linkedin.com/in/warachot-inkun-1ab383383)
 
 ---
 
