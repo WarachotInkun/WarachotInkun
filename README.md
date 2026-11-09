@@ -37,7 +37,9 @@
 ---
 
 <p align="center">
-<img src="https://ghstats.dev/api/mini?username=WarachotInkun&style=for-the-badge" alt="GitHub Mini Badge" />
+  <img src="https://ghstats.dev/api/mini?username=WarachotInkun&style=for-the-badge" alt="GitHub Mini Badge" />
+  <img src="https://ghstats.dev/api/mini?username=WarachotInkun&metric=repos&style=for-the-badge" alt="GitHub Mini Badge" />
+  <img src="https://ghstats.dev/api/mini?username=WarachotInkun&metric=followers&style=for-the-badge" alt="GitHub Mini Badge" />
 </p>
 
 ---
@@ -53,7 +55,6 @@
 <div align="center">
 
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="reimaginedreadme" />
-<img src="https://ghstats.dev/api/mini?username=WarachotInkun&metric=repos&style=for-the-badge" alt="GitHub Mini Badge" />
 
 </div>
 
