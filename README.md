@@ -1,9 +1,5 @@
 <h1 align="center">Hi there , I'm IQNAJA (Warachot Inkun)</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;GoLang+%7C+.NET+%7C+Python+%7C+C%2B%2B" alt="Typing SVG" />
-</p>
-
 ---
 
 ###  About Me
@@ -27,12 +23,15 @@
 ![VHDL](https://img.shields.io/badge/-VHDL-652C8F?style=for-the-badge&logo=verilog&logoColor=white)
 
 
-####  Tool & Framework
+#### Tool & Framework
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Echo](https://img.shields.io/badge/-Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
