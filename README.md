@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm IQNAJA (Warachot Inkun)</h1>
+<h1 align="center">Hi there , I'm IQNAJA (Warachot Inkun)</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;GoLang+%7C+.NET+%7C+Python+%7C+C%2B%2B" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 - **Full Name:** Warachot Inkun  
 - **Student at:** King Mongkut's Institute of Technology Ladkrabang (KMITL)  
@@ -15,9 +15,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
-#### 💻 Languages
+####  Languages
 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
@@ -27,7 +27,7 @@
 ![VHDL](https://img.shields.io/badge/-VHDL-652C8F?style=for-the-badge&logo=verilog&logoColor=white)
 
 
-#### 🌐 Tool & Framework
+####  Tool & Framework
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,27 +36,24 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WarachotInkun&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarachotInkun&layout=compact&theme=tokyonight" />
+<img src="https://ghstats.dev/api/mini?username=WarachotInkun&style=for-the-badge" alt="GitHub Mini Badge" />
 </p>
 
 ---
 
-### 📫 Contact
+###  Contact
 
 - GitHub: [@WarachotInkun](https://github.com/WarachotInkun)
 - LinkedIN: [@WarachotInkun](https://www.linkedin.com/in/warachot-inkun-1ab383383)
 
 ---
 
-### 🎮 Fun Zone
 
 <div align="center">
 
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="reimaginedreadme" />
+<img src="https://ghstats.dev/api/mini?username=WarachotInkun&metric=repos&style=for-the-badge" alt="GitHub Mini Badge" />
 
 </div>
 
